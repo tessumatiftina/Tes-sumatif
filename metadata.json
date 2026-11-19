@@ -1,0 +1,8 @@
+{
+  "name": "Tes Sumatif Akhir Kelas 2",
+  "description": "Aplikasi Tes Sumatif Akhir Matematika Kelas 2 SD Negeri 1 Sangkaragung dengan 4 tahap tes, sinkronisasi Google Spreadsheet, unduh PDF naskah \u0026 hasil tes, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
